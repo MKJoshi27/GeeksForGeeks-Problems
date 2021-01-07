@@ -1,6 +1,8 @@
 # GeeksForGeeks-Problems
 It contain all the problems of GeeksforGeeks with my Solutions.
 
+Github Profile :- https://auth.geeksforgeeks.org/user/mkjoshi_27/practice/
+
 There are 5 Categories of Problems (On the basis of Marks per Problem) on GFG :-
 
 (1.) School - 0 Marks <br />
